@@ -21,7 +21,7 @@ Practica SMX2-M8UF1A2-M8 Óscar Pérez
 ## Herramientas de Google
 
 |Aplicaciones |Visto | 
-|----------|:----------:|----------:|
+|----------|:----------:|
 |Google Docs|centrada|
 |Google Slides|Derecha|
 |Google Sheets|Derecha|
