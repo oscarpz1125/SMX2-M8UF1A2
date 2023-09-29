@@ -55,3 +55,5 @@ Practica SMX2-M8UF1A2-M8 Óscar Pérez
 ## Flujo de trabajo (navegador, petición, servidor y respuesta)
 
 *Respuesta: El flujo de trabajo en una interacción web implica varios pasos. Primero, el usuario abre un navegador web y realiza una petición al servidor al ingresar una URL. Luego, el servidor procesa la solicitud y envía una respuesta, que generalmente incluye el contenido de la página web solicitada. El navegador interpreta la respuesta y muestra la página al usuario.*
+
+![Imagen de flujo de trabajo](https://github.com/oscarpz1125/SMX2-M8UF1A2/blob/main/descarga.png "Imagen de flujo de trabajo")
