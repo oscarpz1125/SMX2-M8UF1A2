@@ -31,6 +31,21 @@ Practica SMX2-M8UF1A2-M8 Óscar Pérez
 
 **¿Qué es HTML?**
 
+```
+<!DOCTYPE HTML>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="view port" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+    </body>
+    </html>
+```
+
+
 *Respuesta: HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para crear la estructura y el contenido de las páginas web. Permite definir elementos como encabezados, párrafos, enlaces, imágenes y más, utilizando etiquetas y atributos.*
 
 **¿Qué es CSS?**
