@@ -22,11 +22,11 @@ Practica SMX2-M8UF1A2-M8 Óscar Pérez
 
 |Aplicaciones |Visto | 
 |----------|:----------:|
-|Google Docs|centrada|
-|Google Slides|Derecha|
-|Google Sheets|Derecha|
-|Google Calendar|hola|
-|Google Meet|
+|Google Docs|![tick](https://github.com/oscarpz1125/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160034.png "tick")|
+|Google Slides|![tick](https://github.com/oscarpz1125/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160034.png "tick")|
+|Google Sheets|![tick](https://github.com/oscarpz1125/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160034.png "tick")|
+|Google Calendar|![calendar](https://github.com/oscarpz1125/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160055.png "calendar")||
+|Google Meet|![meet](https://github.com/oscarpz1125/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160105.png "meet")|
 |...|...|
 
 **¿Qué es HTML?**
